@@ -18,7 +18,6 @@ between two arrays.
 5. Return the result array with the correct size.
 
 ---
-
 ## Code Implementation (Java)
 
 ```java
