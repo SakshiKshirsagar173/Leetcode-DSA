@@ -1,4 +1,4 @@
-# LeetCode 2751 – Survived Robots Healths
+# LeetCode 2751 – Robot collisions
 
 ## 🧩 Problem Summary
 You are given:
