@@ -35,24 +35,9 @@ To retrieve the original text:
 ---
 
 ### Step 4: Remove Trailing Spaces
-The problem guarantees no meaningful trailing spaces in `originalText`, so we remove extra spaces using:
----
-
-### Step 2: Fill the Matrix (Row-wise)
-We rebuild the matrix by placing characters of `encodedText` row by row.
-
----
-
-### Step 3: Decode Using Slanted Traversal
-To retrieve the original text:
-- Start from each column of the first row
-- Traverse diagonally down-right
-- Append characters while staying within bounds
-
----
-
-### Step 4: Remove Trailing Spaces
 The problem guarantees no meaningful trailing spaces in `originalText`, so we remove extra spaces using:stripTrailing()
+---
+
 
 ---
 
