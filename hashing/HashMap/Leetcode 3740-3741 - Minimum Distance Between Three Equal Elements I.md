@@ -1,4 +1,4 @@
-# 3740. Minimum Distance Between Three Equal Elements I
+# Leetcode 3740/3741 - Minimum Distance Between Three Equal Elements I
 
 ## 📌 Problem Statement
 You are given an integer array `nums`.
